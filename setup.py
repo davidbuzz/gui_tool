@@ -71,8 +71,6 @@ args = dict(
         'pygments',
         'qtpy',
         'pyqtgraph',
-		
-        'Cython',
         'Deprecated',
         'Flask',
         'Hypercorn',
