@@ -336,7 +336,6 @@ args = dict(
         'starlette',
         'streamz',
         'supersmoother',
-        'tables',
         'tblib',
         'tenacity',
         'terminado',
