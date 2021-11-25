@@ -349,8 +349,6 @@ args = dict(
         'tomli',
         'tomlkit',
         'toolz',
-        'torchaudio',
-        'tornado',
         'tqdm',
         'traitlets',
         'traittypes',
