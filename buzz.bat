@@ -38,6 +38,8 @@ python pip_sizes.py
 echo "LIST2"
 pip list
 
+pip install numpy
+
 rem  put back just the needed as found in setup.py's list :
 pip install .
 

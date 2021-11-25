@@ -71,6 +71,7 @@ args = dict(
         'pygments',
         'qtpy',
         'pyqtgraph',
+		
         'Cython',
         'Deprecated',
         'Flask',
@@ -294,7 +295,6 @@ args = dict(
         'pyflakes',
         'pyinstaller',
         'pylint',
-        'pymc',
         'pymongo',
         'pypandoc',
         'pyproj',
