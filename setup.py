@@ -187,7 +187,6 @@ args = dict(
         'guidata',
         'h11',
         'h2',
-        'h5py',
         'hpack',
         'html5lib',
         'httpcore',
