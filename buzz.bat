@@ -44,9 +44,13 @@ pip install Cython --install-option="--no-cython-compile"
 
 pip install numpy
 
+powershell -Command "Invoke-WebRequest https://download.lfd.uci.edu/pythonlibs/w6tyco5e/GDAL-3.3.3-cp310-cp310-win_amd64.whl -OutFile gdal.whl"
+pip install gdal.whl
+
+
 rem shapely via pip broken, maybe conda work?
 
-pip install --upgrade shapely
+rem pip install --upgrade shapely
 
 rem  put back just the needed as found in setup.py's list :
 pip install .
