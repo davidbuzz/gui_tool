@@ -243,7 +243,6 @@ args = dict(
         'nbdime',
         'nbformat',
         'nbval',
-        'netCDF4',
         'networkx',
         'nltk',
         'numcodecs',
