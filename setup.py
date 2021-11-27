@@ -346,7 +346,6 @@ args = dict(
         'tqdm',
         'traitlets',
         'traittypes',
-        'tranquilizer',
         'trio',
         'twine',
         'twitter',
