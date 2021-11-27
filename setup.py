@@ -297,7 +297,6 @@ args = dict(
         'pylint',
         'pymongo',
         'pypandoc',
-        'pyproj',
         'pyqtgraph',
         'pyrsistent',
         'pystache',
