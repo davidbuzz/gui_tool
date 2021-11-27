@@ -183,7 +183,6 @@ args = dict(
         'fuzzywuzzy',
         'geographiclib',
         'geopy',
-        'geoviews',
         'gitdb',
         'graphene',
         'greenlet',
