@@ -40,8 +40,11 @@ pip list
 
 pip install numpy
 
+
 rem shapely via pip broken, maybe conda work?
 conda install shapely
+
+pip install --upgrade shapely
 
 rem  put back just the needed as found in setup.py's list :
 pip install .
