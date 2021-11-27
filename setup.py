@@ -64,10 +64,8 @@ args = dict(
         'testpath',
         'pyyaml',
         'easywebdav',
-        'numpy',
         'traitlets',
         'jupyter-client',
-		
         'ipykernel',
         'pygments',
         'qtpy',
