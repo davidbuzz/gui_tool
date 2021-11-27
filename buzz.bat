@@ -45,7 +45,6 @@ pip install Cython --install-option="--no-cython-compile"
 pip install numpy
 
 rem shapely via pip broken, maybe conda work?
-conda install shapely
 
 pip install --upgrade shapely
 

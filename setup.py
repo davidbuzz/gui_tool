@@ -182,7 +182,6 @@ args = dict(
         'future',
         'fuzzywuzzy',
         'geographiclib',
-        'geopandas',
         'geopy',
         'geoviews',
         'gitdb',
