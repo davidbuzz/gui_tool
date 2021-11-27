@@ -328,7 +328,6 @@ args = dict(
         'sortedcontainers',
         'soupsieve',
         'sqlparse',
-        'srsly',
         'starlette',
         'streamz',
         'supersmoother',
