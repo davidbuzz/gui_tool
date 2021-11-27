@@ -67,6 +67,7 @@ args = dict(
         'numpy',
         'traitlets',
         'jupyter-client',
+		
         'ipykernel',
         'pygments',
         'qtpy',
@@ -94,6 +95,7 @@ args = dict(
         'ViTables',
         'Werkzeug',
         'XlsxWriter',
+		
         'adodbapi',
         'affine',
         'aiofiles',
@@ -311,7 +313,6 @@ args = dict(
         'rfc3986',
         'rise',
         'rope',
-        'rpy2',
         'scilab2py',
         'scramp',
         'setuptools',
